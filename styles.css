@@ -33,6 +33,7 @@ h2 {
 
 a {
   font-size: 18px;
+  color: white;
 }
 
 .navbar {
@@ -59,9 +60,7 @@ a {
   transition: 0.1s;
 }
 
-a:visited {
-  color: white;
-}
+
 
 .navbar > ul > a:hover {
   opacity: 60%;

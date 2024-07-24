@@ -31,8 +31,9 @@ h2 {
   border-radius: 50%;
 }
 
-a {
+a, a:link, a:visited {
   font-size: 18px;
+  text-decoration: none!important;
   color: white;
 }
 
@@ -59,8 +60,6 @@ a {
   text-decoration: none;
   transition: 0.1s;
 }
-
-
 
 .navbar > ul > a:hover {
   opacity: 60%;
@@ -919,12 +918,10 @@ h1 {
 }
 
 .footer_info > p {
-  font-size: 22px;
+  font-size: 14px;
 }
 
-.footer_info > p {
-  margin-top: 40px;
-}
+
 
 .footer_info > h2 {
   margin: 0px;

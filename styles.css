@@ -867,7 +867,7 @@ h1 {
 }
 
 .project_div > div > h2 {
-  font-size: 54px;
+  font-size: 44px;
   margin: 15px;
 }
 
@@ -899,7 +899,8 @@ h1 {
 }
 
 .section3 > h2 {
-  font-size: 58px;
+  font-size: 48px;
+  margin-top: 70px;
 }
 
 .section3 > h2 > span {
@@ -1013,7 +1014,7 @@ h1 {
   background-color: rgb(66, 55, 114);
   box-shadow: 0px 0px 20px black;
   height: 340px;
-  margin-top: 100px;
+  margin-top: 110px;
 }
 
 .presence_img {
@@ -1029,11 +1030,12 @@ h1 {
   place-content: center;
   right: 470px;
   top: 210px;
-  font-size: 50px;
+  font-size: 44px;
   width: 800px;
   margin: 8px;
   height: 416px;
 }
+
 
 @media only screen and (max-width: 1800px) {
   .page_div > img {
